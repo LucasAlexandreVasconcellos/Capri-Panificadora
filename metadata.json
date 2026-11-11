@@ -1,0 +1,6 @@
+{
+  "name": "Panificadora Capri - Asa Norte Brasília",
+  "description": "Panificadora Capri em Brasília (Asa Norte). Pães artesanais de fermentação natural, confeitaria fina, cafeteria especial e buffet em ambiente sofisticado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
